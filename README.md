@@ -18,6 +18,7 @@ Instructions to run :
 2. Please change the path in python to your directory where My_Data folder is present
 3. run the script by typing below in the python prompt
 	python Weather_Generator.py
+4. Please change the Google API Key to get the latitute and logitude and elevation ( Each Key only supports limited requestes per day)
 
 	
 Output :
